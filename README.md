@@ -110,6 +110,6 @@ Apne doston ke sath bhi share karo jo testnet automation seekhna chahte hain.
 
 ```
 Na main token bechta hoon,  
-Na main rikhav karta hoon,  
+Na main kisiko dm karta hoon,  
 Sirf testnet coding ka junoon hai 😄💻
 ```
